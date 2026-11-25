@@ -1,0 +1,100 @@
+P102,D101,Bui Minh Ngoc,Khoe qua,21
+P002,D082,Huỳnh Ngọc Uyên,Tay chân miệng,53
+P003,D019,Lê Hồng Vy,Đau dây thần kinh,42
+P004,D056,Hồ Ngọc Bình,Đau cổ vai gáy,59
+P005,D093,Lê Quang Ngọc,Trật khớp vai,59
+P006,D030,Võ Quang Thu,Đau lưng thai kỳ,23
+P007,D067,Đặng Thu Nhi,Viêm dạ dày,60
+P008,D004,Bùi Thị Chi,Tăng huyết áp,66
+P009,D041,Võ Thị Nhung,Viêm kết mạc,70
+P010,D078,Hà Đình Huy,Nhiễm trùng tiểu,30
+P011,D015,Tô Khánh Sơn,Tăng huyết áp,25
+P012,D052,Tô Thu Tuấn,Mề đay,44
+P013,D089,Hồ Xuân Minh,Yếu cơ,74
+P014,D026,Trịnh Bảo Nga,Đau lưng thai kỳ,23
+P015,D063,Mai Xuân Việt,Ho kéo dài,58
+P016,D100,Đinh Gia Lan,Rối loạn tiêu hóa,37
+P017,D037,Hoàng Thị Long,Viêm xoang,61
+P018,D074,Hồ Khánh Thu,Đái tháo đường type 2,68
+P019,D011,Lương Hữu Khang,Tăng huyết áp,18
+P020,D048,Ngô Anh Thắng,Viêm lợi,77
+P021,D085,Đinh Hồng Thiện,Sốt xuất huyết,37
+P022,D022,Tô Ngọc Hoa,Viêm phế quản,11
+P023,D059,Lương Khánh Nhân,Viêm khớp,53
+P024,D096,Lương Ngọc Uyên,Rối loạn tiêu hóa,44
+P025,D033,Tô Thị Hà,Khám phụ khoa,36
+P026,D070,Cao Quang Thư,Viêm đại tràng,45
+P027,D007,Đinh Hữu Long,Viêm ruột thừa,28
+P028,D044,Lương Thành Hương,Cận thị,76
+P029,D081,Đinh Thu Nga,Sốt xuất huyết,29
+P030,D018,Mai Bảo Lan,Rối loạn tiền đình,59
+P031,D055,Phan Tuấn Bình,Mụn trứng cá,43
+P032,D092,Vũ Thị Việt,Chấn thương đầu gối,49
+P033,D029,Lê Hữu Đức,Khám thai định kỳ,41
+P034,D066,Nguyễn Hoài Nhi,Viêm đại tràng,33
+P035,D003,Phan Khánh Hoa,Mệt mỏi,60
+P036,D040,Vũ Hoài Long,Viêm mũi dị ứng,34
+P037,D077,Đoàn Thành Khang,Sỏi thận,19
+P038,D014,Bùi Thu Tuấn,Rối loạn nhịp tim,40
+P039,D051,Phan Thu Nhi,Mụn trứng cá,56
+P040,D088,Hoàng Hồng Minh,Phục hồi sau gãy xương,42
+P041,D025,Trịnh Đình Quỳnh,Sốt siêu vi,1
+P042,D062,Phạm Bảo Thắng,Viêm phổi,50
+P043,D099,Lương Minh Linh,Đau lưng,26
+P044,D036,Phạm Thu Hoa,Viêm mũi dị ứng,38
+P045,D073,Đinh Tuấn Phúc,Béo phì,54
+P046,D010,Ngô Thu Trí,Đau bụng cấp,23
+P047,D047,Vũ Văn Hoa,Sâu răng,61
+P048,D084,Đặng Xuân Chi,Cúm mùa,61
+P049,D021,Hà Minh Khang,Sốt siêu vi,4
+P050,D058,Ngô Tuấn Trung,Đau lưng,68
+P051,D095,Trịnh Xuân Giang,Gãy xương cẳng tay,75
+P052,D032,Cao Quang Nam,U xơ tử cung,47
+P053,D069,Tạ Đức Sơn,Rối loạn tiêu hóa,36
+P054,D006,Nguyễn Thành Trung,Đau bụng cấp,44
+P055,D043,Mai Đình Hà,Đục thủy tinh thể,29
+P056,D080,Trịnh Gia Hạnh,Suy thận mạn,73
+P057,D017,Cao Anh Quân,Đau nửa đầu,73
+P058,D054,Hoàng Gia Mai,Viêm da cơ địa,75
+P059,D091,Trịnh Hữu Trang,Gãy xương cẳng tay,49
+P060,D028,Võ Phương Lan,Thiếu máu thai kỳ,40
+P061,D065,Tạ Hoài Thảo,Hen phế quản,59
+P062,D002,Đoàn Hoài Thủy,Đau đầu,37
+P063,D039,Vũ Thị Hương,Viêm tai giữa,33
+P064,D076,Hồ Tuấn Đạt,Suy thận mạn,64
+P065,D013,Huỳnh Hữu Giang,Suy tim nhẹ,28
+P066,D050,Hoàng Bảo Thư,Viêm tủy răng,23
+P067,D087,Hồ Quang Tiến,Đau lưng sau vận động,58
+P068,D024,Tô Đức Uyên,Viêm họng,9
+P069,D061,Phan Anh Thắng,Hen phế quản,73
+P070,D098,Tô Phương Hạnh,Mất ngủ,25
+P071,D035,Lương Văn Việt,Viêm âm đạo,51
+P072,D072,Lý Xuân Hà,Rối loạn lipid máu,46
+P073,D009,Bùi Hồng Lan,U nang lành tính,20
+P074,D046,Trần Tuấn Hùng,Viêm tủy răng,46
+P075,D083,Huỳnh Thị Trung,Viêm gan virus,62
+P076,D020,Tô Hoài Thiện,Mất ngủ,45
+P077,D057,Hoàng Bảo Trung,Thoái hóa khớp,34
+P078,D094,Vũ Hoài Ngân,Bong gân cổ chân,69
+P079,D031,Trần Hoài Giang,Viêm âm đạo,25
+P080,D068,Đỗ Hồng Giang,Trào ngược dạ dày,42
+P081,D005,Hoàng Hoài Thư,Thiếu máu nhẹ,53
+P082,D042,Đỗ Ngọc Quỳnh,Khô mắt,52
+P083,D079,Bùi Hồng Quỳnh,Viêm bàng quang,76
+P084,D016,Đỗ Khánh Thiện,Mất ngủ,36
+P085,D053,Tô Khánh Thắng,Nấm da,36
+P086,D090,Dương Minh Tú,Hạn chế vận động khớp,29
+P087,D027,Trần Thị Đức,Theo dõi thai kỳ,38
+P088,D064,Đặng Thị Chi,Viêm phế quản,63
+P089,D102,Lê Hoài Sơn,Thiếu máu nhẹ,42
+P090,D038,Phạm Thị Dũng,Viêm amidan,35
+P091,D075,Nguyễn Bảo Trí,Rối loạn tuyến giáp,74
+P092,D012,Phan Gia Quỳnh,Đau thắt ngực,76
+P093,D049,Đặng Thành Linh,Đau răng,57
+P094,D086,Lý Thành Việt,Hạn chế vận động khớp,26
+P095,D023,Hà Thu Đức,Viêm tai giữa,14
+P096,D060,Hồ Hữu Quỳnh,Đau cổ vai gáy,56
+P097,D097,Tạ Minh Việt,Đau vai gáy,56
+P098,D034,Cao Quang Thảo,Rối loạn kinh nguyệt,43
+P099,D071,Đoàn Ngọc Trí,Rối loạn tuyến giáp,23
+P100,D008,Bùi Minh Ngoc,Thoát vị bẹn,50

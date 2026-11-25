@@ -1,0 +1,101 @@
+D102,XYZ,XXY,4.0
+D002,Khoa Noi tong hop - Don nguyen 2,2,235000.0
+D003,Khoa Noi tong hop - Phong kham,3,250000.0
+D004,Khoa Noi tong hop - Khu dieu tri,4,265000.0
+D005,Khoa Noi tong hop - Khu theo doi,5,280000.0
+D006,Khoa Ngoai tong hop - Don nguyen 1,2,260000.0
+D007,Khoa Ngoai tong hop - Don nguyen 2,3,275000.0
+D008,Khoa Ngoai tong hop - Phong kham,4,290000.0
+D009,Khoa Ngoai tong hop - Khu dieu tri,5,305000.0
+D010,Khoa Ngoai tong hop - Khu theo doi,6,320000.0
+D011,Khoa Tim mach - Don nguyen 1,3,320000.0
+D012,Khoa Tim mach - Don nguyen 2,4,335000.0
+D013,Khoa Tim mach - Phong kham,5,350000.0
+D014,Khoa Tim mach - Khu dieu tri,6,365000.0
+D015,Khoa Tim mach - Khu theo doi,7,380000.0
+D016,Khoa Than kinh - Don nguyen 1,4,300000.0
+D017,Khoa Than kinh - Don nguyen 2,5,315000.0
+D018,Khoa Than kinh - Phong kham,6,330000.0
+D019,Khoa Than kinh - Khu dieu tri,7,345000.0
+D020,Khoa Than kinh - Khu theo doi,8,360000.0
+D021,Khoa Nhi - Don nguyen 1,5,180000.0
+D022,Khoa Nhi - Don nguyen 2,6,195000.0
+D023,Khoa Nhi - Phong kham,7,210000.0
+D024,Khoa Nhi - Khu dieu tri,8,225000.0
+D025,Khoa Nhi - Khu theo doi,9,240000.0
+D026,Khoa San - Don nguyen 1,6,230000.0
+D027,Khoa San - Don nguyen 2,7,245000.0
+D028,Khoa San - Phong kham,8,260000.0
+D029,Khoa San - Khu dieu tri,9,275000.0
+D030,Khoa San - Khu theo doi,1,290000.0
+D031,Khoa Phu khoa - Don nguyen 1,7,240000.0
+D032,Khoa Phu khoa - Don nguyen 2,8,255000.0
+D033,Khoa Phu khoa - Phong kham,9,270000.0
+D034,Khoa Phu khoa - Khu dieu tri,1,285000.0
+D035,Khoa Phu khoa - Khu theo doi,2,300000.0
+D036,Khoa Tai Mui Hong - Don nguyen 1,8,175000.0
+D037,Khoa Tai Mui Hong - Don nguyen 2,9,190000.0
+D038,Khoa Tai Mui Hong - Phong kham,1,205000.0
+D039,Khoa Tai Mui Hong - Khu dieu tri,2,220000.0
+D040,Khoa Tai Mui Hong - Khu theo doi,3,235000.0
+D041,Khoa Mat - Don nguyen 1,9,195000.0
+D042,Khoa Mat - Don nguyen 2,1,210000.0
+D043,Khoa Mat - Phong kham,2,225000.0
+D044,Khoa Mat - Khu dieu tri,3,240000.0
+D045,Khoa Mat - Khu theo doi,4,255000.0
+D046,Khoa Rang Ham Mat - Don nguyen 1,1,200000.0
+D047,Khoa Rang Ham Mat - Don nguyen 2,2,215000.0
+D048,Khoa Rang Ham Mat - Phong kham,3,230000.0
+D049,Khoa Rang Ham Mat - Khu dieu tri,4,245000.0
+D050,Khoa Rang Ham Mat - Khu theo doi,5,260000.0
+D051,Khoa Da lieu - Don nguyen 1,2,185000.0
+D052,Khoa Da lieu - Don nguyen 2,3,200000.0
+D053,Khoa Da lieu - Phong kham,4,215000.0
+D054,Khoa Da lieu - Khu dieu tri,5,230000.0
+D055,Khoa Da lieu - Khu theo doi,6,245000.0
+D056,Khoa Co Xuong Khop - Don nguyen 1,3,245000.0
+D057,Khoa Co Xuong Khop - Don nguyen 2,4,260000.0
+D058,Khoa Co Xuong Khop - Phong kham,5,275000.0
+D059,Khoa Co Xuong Khop - Khu dieu tri,6,290000.0
+D060,Khoa Co Xuong Khop - Khu theo doi,7,305000.0
+D061,Khoa Ho hap - Don nguyen 1,4,255000.0
+D062,Khoa Ho hap - Don nguyen 2,5,270000.0
+D063,Khoa Ho hap - Phong kham,6,285000.0
+D064,Khoa Ho hap - Khu dieu tri,7,300000.0
+D065,Khoa Ho hap - Khu theo doi,8,315000.0
+D066,Khoa Tieu hoa - Don nguyen 1,5,250000.0
+D067,Khoa Tieu hoa - Don nguyen 2,6,265000.0
+D068,Khoa Tieu hoa - Phong kham,7,280000.0
+D069,Khoa Tieu hoa - Khu dieu tri,8,295000.0
+D070,Khoa Tieu hoa - Khu theo doi,9,310000.0
+D071,Khoa Noi tiet - Don nguyen 1,6,225000.0
+D072,Khoa Noi tiet - Don nguyen 2,7,240000.0
+D073,Khoa Noi tiet - Phong kham,8,255000.0
+D074,Khoa Noi tiet - Khu dieu tri,9,270000.0
+D075,Khoa Noi tiet - Khu theo doi,1,285000.0
+D076,Khoa Than Tiet nieu - Don nguyen 1,7,265000.0
+D077,Khoa Than Tiet nieu - Don nguyen 2,8,280000.0
+D078,Khoa Than Tiet nieu - Phong kham,9,295000.0
+D079,Khoa Than Tiet nieu - Khu dieu tri,1,310000.0
+D080,Khoa Than Tiet nieu - Khu theo doi,2,325000.0
+D081,Khoa Truyen nhiem - Don nguyen 1,8,210000.0
+D082,Khoa Truyen nhiem - Don nguyen 2,9,225000.0
+D083,Khoa Truyen nhiem - Phong kham,1,240000.0
+D084,Khoa Truyen nhiem - Khu dieu tri,2,255000.0
+D085,Khoa Truyen nhiem - Khu theo doi,3,270000.0
+D086,Khoa Phuc hoi chuc nang - Don nguyen 1,9,190000.0
+D087,Khoa Phuc hoi chuc nang - Don nguyen 2,1,205000.0
+D088,Khoa Phuc hoi chuc nang - Phong kham,2,220000.0
+D089,Khoa Phuc hoi chuc nang - Khu dieu tri,3,235000.0
+D090,Khoa Phuc hoi chuc nang - Khu theo doi,4,250000.0
+D091,Khoa Chan thuong chinh hinh - Don nguyen 1,1,285000.0
+D092,Khoa Chan thuong chinh hinh - Don nguyen 2,2,300000.0
+D093,Khoa Chan thuong chinh hinh - Phong kham,3,315000.0
+D094,Khoa Chan thuong chinh hinh - Khu dieu tri,4,330000.0
+D095,Khoa Chan thuong chinh hinh - Khu theo doi,5,345000.0
+D096,Khoa Y hoc co truyen - Don nguyen 1,2,170000.0
+D097,Khoa Y hoc co truyen - Don nguyen 2,3,185000.0
+D098,Khoa Y hoc co truyen - Phong kham,4,200000.0
+D099,Khoa Y hoc co truyen - Khu dieu tri,5,215000.0
+D100,Khoa Y hoc co truyen - Khu theo doi,6,230000.0
+D101,Khoa ABC,BCD,3.0
