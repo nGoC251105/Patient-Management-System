@@ -93,7 +93,6 @@ public class PatientList extends ArrayList<Patient> {
             if (searchID(id) < 0) break;
             System.out.println("Patient ID already exists. Retry.");
         }
-        departmentList.listDepartments();
         Department department = departmentList.getUserChoice();
         if (department == null) return;
         String name = Menu.readRequired("Full name: ");
@@ -125,7 +124,6 @@ public class PatientList extends ArrayList<Patient> {
             if (conflict < 0 || conflict == position) break;
             System.out.println("Patient ID already exists on another record.");
         }
-        departmentList.listDepartments();
         Department department = departmentList.getUserChoice();
         if (department == null) return false;
         String name = Menu.readRequired("New full name: ");

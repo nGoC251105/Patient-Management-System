@@ -74,16 +74,28 @@ public class DepartmentList extends ArrayList<Department> {
         }
     }
 
-    /** Resolves an object reference by a numbered Console selection. */
+    /** Selects a current department by ID or the displayed one-based number. */
     public Department getUserChoice() {
         if (isEmpty()) {
             System.out.println("No departments available. Add a department first.");
             return null;
         }
-        ArrayList<String> labels = new ArrayList<>();
-        for (Department d : this) labels.add(d.getDepartmentID() + " - " + d.getDepartmentName());
-        int index = Menu.readInt("Department number (1-" + size() + "): ", 1, size());
-        return get(index - 1);
+        System.out.println("No. | Department ID | Department | Floor | Service fee");
+        for (int i = 0; i < size(); i++) {
+            Department d = get(i);
+            System.out.println((i + 1) + " | " + d.getDepartmentID() + " | "
+                + d.getDepartmentName() + " | " + d.getFloor() + " | " + d.getServiceFee());
+        }
+        while (true) {
+            String choice = Menu.readRequired("Department ID or number (1-" + size() + "): ");
+            int position = searchID(choice);
+            if (position >= 0) return get(position);
+            try {
+                int number = Integer.parseInt(choice);
+                if (number >= 1 && number <= size()) return get(number - 1);
+            } catch (NumberFormatException ignored) { }
+            System.out.println("Department not found. Enter an existing ID or number 1-" + size() + ".");
+        }
     }
 
     /** Creates a department after validating an unused ID and all fields. */
